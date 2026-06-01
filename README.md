@@ -1,4 +1,4 @@
-## sbt project compiled with Scala 3
+## Learn by Doing June 2026
 
 ### Usage
 
