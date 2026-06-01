@@ -1,0 +1,31 @@
+# sbt
+target/
+project/target/
+project/project/
+.bsp/
+
+# Metals (VS Code Scala plugin)
+.metals/
+.bloop/
+metals.sbt
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+.ensime
+.ensime_cache/
+
+# Scala / JVM
+*.class
+*.log
+hs_err_pid*
+
+# Build tools
+.cache
+.lib/
+dist/*
+
+# OS
+.DS_Store
+Thumbs.db
